@@ -1,0 +1,15 @@
+C:\Users\boris\source\repos\Chat\Chat\bin\Debug\Chat.exe.config
+C:\Users\boris\source\repos\Chat\Chat\bin\Debug\Chat.exe
+C:\Users\boris\source\repos\Chat\Chat\bin\Debug\Chat.pdb
+C:\Users\boris\source\repos\Chat\Chat\obj\Debug\Chat.csproj.AssemblyReference.cache
+C:\Users\boris\source\repos\Chat\Chat\obj\Debug\Chat.csproj.CoreCompileInputs.cache
+C:\Users\boris\source\repos\Chat\Chat\obj\Debug\Chat.exe
+C:\Users\boris\source\repos\Chat\Chat\obj\Debug\Chat.pdb
+D:\Chat\Chat\bin\Debug\Chat.exe.config
+D:\Chat\Chat\bin\Debug\Chat.exe
+D:\Chat\Chat\bin\Debug\Chat.pdb
+D:\Chat\Chat\obj\Debug\Chat.csproj.AssemblyReference.cache
+D:\Chat\Chat\obj\Debug\Chat.csproj.SuggestedBindingRedirects.cache
+D:\Chat\Chat\obj\Debug\Chat.csproj.CoreCompileInputs.cache
+D:\Chat\Chat\obj\Debug\Chat.exe
+D:\Chat\Chat\obj\Debug\Chat.pdb
